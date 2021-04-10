@@ -1,0 +1,30 @@
+Reshaun's iLevels Pro
+Difficulty: Advanced through Expert\\The Unofficial Impossible Level Set\Author: Reshaun Francis
+iLevels-III
+shot-iLevels3/peg-maze.png
+
+map-iLevels3/peg-maze.sol
+map-iLevels3/backbounce.sol
+map-iLevels3/square-obstacle.sol
+map-iLevels3/under-the-well.sol
+map-iLevels3/dollar-sign.sol
+map-iLevels3/tallmaze.sol
+map-iLevels3/rampswitch.sol
+map-iLevels3/minimazes.sol
+map-iLevels3/miniblocks.sol
+map-iLevels3/iSpelling-Word.sol
+map-iLevels3/iPhone-SMB2-rotate90.sol
+map-iLevels3/ferris-wheel.sol
+map-iLevels3/zen-maze3.sol
+map-iLevels3/bombman2.sol
+map-iLevels3/woodmaze2.sol
+map-iLevels3/glasstower2.sol
+map-iLevels3/angle2.sol
+map-iLevels3/loop3.sol
+map-iLevels3/bigball2.sol
+map-iLevels3/up2.sol
+map-iLevels3/running2.sol
+map-iLevels3/webs2.sol
+map-iLevels3/trust2.sol
+map-iLevels3/hard2.sol
+map-iLevels3/scan-code.sol
