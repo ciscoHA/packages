@@ -1,0 +1,30 @@
+Reshaun's iLevels Tough
+Difficulty: Insane through Impossible\\The Unofficial Strong Level Set\Author: Reshaun Francis
+iLevels-V
+shot-iLevels5/iLevels-logo.png
+
+map-iLevels5/peasy2.sol
+map-iLevels5/balance.sol
+map-iLevels5/risers2.sol
+map-iLevels5/pipeline.sol
+map-iLevels5/edgebuzzer.sol
+map-iLevels5/staircase.sol
+map-iLevels5/hardjump.sol
+map-iLevels5/big-wedges.sol
+map-iLevels5/platform-hopper.sol
+map-iLevels5/sparselines2.sol
+map-iLevels5/superspeed.sol
+map-iLevels5/tiltcurve.sol
+map-iLevels5/leapoffaith.sol
+map-iLevels5/exercise.sol
+map-iLevels5/unboxing.sol
+map-iLevels5/linkingblocks.sol
+map-iLevels5/quads2.sol
+map-iLevels5/mixer.sol
+map-iLevels5/backforth2.sol
+map-iLevels5/airways2.sol
+map-iLevels5/assault-bumpers.sol
+map-iLevels5/linkingnarrows.sol
+map-iLevels5/movinglumps2.sol
+map-iLevels5/iFinal.sol
+map-iLevels5/iLevels-logo.sol
