@@ -1,0 +1,30 @@
+Reshaun's iLevels Suite
+Difficulty: Normal through Advanced\\The Unofficial Insanity Level Set\Author: Reshaun Francis
+iLevels-II
+shot-iLevels2/easy2.png
+
+map-iLevels2/easy2.sol
+map-iLevels2/curved2.sol
+map-iLevels2/multicurves2.sol
+map-iLevels2/accordian2.sol
+map-iLevels2/bowsercastle1-mariokart-gba.sol
+map-iLevels2/easyhalfpipe2.sol
+map-iLevels2/qbert2.sol
+map-iLevels2/greed2.sol
+map-iLevels2/bumper2.sol
+map-iLevels2/mazethwomp.sol
+map-iLevels2/slightcurve2.sol
+map-iLevels2/timer2.sol
+map-iLevels2/gaps2.sol
+map-iLevels2/zen-maze2.sol
+map-iLevels2/block-fort-mariokart64.sol
+map-iLevels2/invis2.sol
+map-iLevels2/narrow2.sol
+map-iLevels2/bounces2.sol
+map-iLevels2/spikywheel.sol
+map-iLevels2/earthquake2.sol
+map-iLevels2/bumps2.sol
+map-iLevels2/grinder2.sol
+map-iLevels2/speed2.sol
+map-iLevels2/morenarrow2.sol
+map-iLevels2/rainbow-mariokart-doubledash.sol
