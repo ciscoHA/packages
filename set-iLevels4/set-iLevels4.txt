@@ -1,0 +1,30 @@
+Reshaun's iLevels Hardcore
+Difficulty: Expert through Insane\\The Unofficial Extreme Level Set\Author: Reshaun Francis
+iLevels-IV
+shot-iLevels4/hurdles2.png
+
+map-iLevels4/hurdles2.sol
+map-iLevels4/hammer-run.sol
+map-iLevels4/canals2.sol
+map-iLevels4/slingshot.sol
+map-iLevels4/roundfloors2.sol
+map-iLevels4/leaps2.sol
+map-iLevels4/tunnelpipe.sol
+map-iLevels4/blockslalom.sol
+map-iLevels4/hardroller.sol
+map-iLevels4/hallways2.sol
+map-iLevels4/easytele2.sol
+map-iLevels4/zen-maze4.sol
+map-iLevels4/four-curves.sol
+map-iLevels4/stairs2.sol
+map-iLevels4/dance3.sol
+map-iLevels4/poker2.sol
+map-iLevels4/bigcone2.sol
+map-iLevels4/longpipe2.sol
+map-iLevels4/littlecones2.sol
+map-iLevels4/mazebump2.sol
+map-iLevels4/narrow-rotating-bridges.sol
+map-iLevels4/slant-bounces.sol
+map-iLevels4/tightropes.sol
+map-iLevels4/iChallenge.sol
+map-iLevels4/flip2.sol
