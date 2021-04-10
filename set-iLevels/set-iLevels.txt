@@ -1,0 +1,30 @@
+Reshaun's iLevels
+Difficulty: Easy through Hard\\The Unofficial Level Set\Author: Reshaun Francis
+iLevels-I
+shot-iLevels/easyslant.png
+
+map-iLevels/easyslant.sol
+map-iLevels/slightjump.sol
+map-iLevels/hillslope.sol
+map-iLevels/bump-and-leap.sol
+map-iLevels/mariocircuit.sol
+map-iLevels/iPhone-SMB2-doors.sol
+map-iLevels/glassbounce.sol
+map-iLevels/rotating-wrench.sol
+map-iLevels/tilt2.sol
+map-iLevels/ghosts2.sol
+map-iLevels/groweasy2.sol
+map-iLevels/merry-go-rounds1.sol
+map-iLevels/zen-maze.sol
+map-iLevels/railbump.sol
+map-iLevels/rodeo2.sol
+map-iLevels/spiralpyramid.sol
+map-iLevels/merry-go-rounds2.sol
+map-iLevels/check2.sol
+map-iLevels/marble-nes.sol
+map-iLevels/bowsercastle3-mariokart-gba.sol
+map-iLevels/three-thwomps.sol
+map-iLevels/tetriminos.sol
+map-iLevels/camp-obstacle.sol
+map-iLevels/woodencourse.sol
+map-iLevels/wakka2.sol
