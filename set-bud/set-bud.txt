@@ -1,0 +1,13 @@
+BuD's Levels
+Difficulty: Intermediate through Insane\\Unfinished set.\Author: BuD\ \
+bud
+shot-bud/walls.jpg
+
+map-bud/clover.sol
+map-bud/rocks.sol
+map-bud/jumpers.sol
+map-bud/walls.sol
+map-bud/toohalfs.sol
+map-bud/ring.sol
+map-bud/geomove.sol
+map-bud/highway.sol
