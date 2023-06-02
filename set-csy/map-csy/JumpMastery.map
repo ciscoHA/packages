@@ -3,9 +3,9 @@
 {
 "classname" "worldspawn"
 "shot" "shot-csy/JumpMastery.png"
-"back" "map-back/volcano.sol"
-"grad" "back/volcano.png"
-"song" "bgm/track6.ogg"
+"back" "map-back/city.sol"
+"grad" "back/city.png"
+"song" "bgm/track3.ogg"
 "message" "=Jump Mastery=\Easy to learn,\difficult to master"
 "goal" "14"
 "coin_hs" "70 45"

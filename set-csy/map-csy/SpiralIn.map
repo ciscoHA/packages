@@ -2,7 +2,7 @@
 // entity 0
 {
 "classname" "worldspawn"
-"message" "=Spiral Inward=\Your way back in is littered!"
+"message" "=Spiral Inward=\Your way inward is littered!"
 "back" "map-back/ocean.sol"
 "shot" "shot-csy/SpiralIn.png"
 "grad" "back/ocean.png"
