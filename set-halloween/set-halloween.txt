@@ -1,0 +1,30 @@
+Reshaun's Halloween Levels
+Difficulty: Easy through Hard\\The Unofficial Spooky Level Set\Author: Reshaun Francis
+halloween
+shot-halloween/SpookyEasy.png
+
+map-halloween/SpookyEasy.sol
+map-halloween/SpookyTraining.sol
+map-halloween/SpookyAngle.sol
+map-halloween/SpookyBumper.sol
+map-halloween/SpookyPumpkin.sol
+map-halloween/SpookySquares.sol
+map-halloween/SpookyGutter.sol
+map-halloween/SpookyGhostThwomps.sol
+map-halloween/SpookyObstacle.sol
+map-halloween/SpookySkull.sol
+map-halloween/SpookyGutter2.sol
+map-halloween/SpookyTilt.sol
+map-halloween/SpookyBumper2.sol
+map-halloween/SpookySquares2.sol
+map-halloween/SpookyRamp.sol
+map-halloween/SpookyPeaking.sol
+map-halloween/SpookyCornerBlock.sol
+map-halloween/SpookyCross.sol
+map-halloween/SpookyObstacle2.sol
+map-halloween/SpookyWoodmaze.sol
+map-halloween/SpookyMuseum.sol
+map-halloween/SpookyNarrows.sol
+map-halloween/SpookyObstacle3.sol
+map-halloween/SpookyCollect-athon.sol
+map-halloween/Spooky-Spell.sol
