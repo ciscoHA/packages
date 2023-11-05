@@ -1,0 +1,30 @@
+KodeBreaker Expert
+Difficulty: Impossible through Master\\25 extremely hard levels only the\best of the best can beat.\Good Luck. \
+KBVI
+shot-kb6/KBMaze4.png
+4500 5000 6000  4750 4000 3250
+map-kb6/CoinsPro.sol
+map-kb6/ClosingGates.sol
+map-kb6/EasyMaze2.sol
+map-kb6/KB-Fall.sol
+map-kb6/KB-Spacetime.sol
+map-kb6/Fast.sol
+map-kb6/TelePuzzle.sol
+map-kb6/Arisen.sol
+map-kb6/Thwomped2.sol
+map-kb6/Tiles.sol
+map-kb6/KB-Multicurves.sol
+map-kb6/Circle2.sol
+map-kb6/KB-Narrow.sol
+map-kb6/Swerve.sol
+map-kb6/KB-Adventure.sol
+map-kb6/KBMaze4.sol
+map-kb6/KB-Tightropes.sol
+map-kb6/KBMaze5.sol
+map-kb6/OceanBalance.sol
+map-kb6/EarthSwitch.sol
+map-kb6/CuttingCorners.sol
+map-kb6/KB-Rails.sol
+map-kb6/MemoryTest.sol
+map-kb6/Endgame.sol
+map-kb6/TheCity.sol

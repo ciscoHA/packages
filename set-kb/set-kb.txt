@@ -1,0 +1,30 @@
+KodeBreaker Easy
+Difficulty: Easy\\25 Easy but fun and creative levels.\ \
+KB
+shot-kb/SSS.png
+330000 390000 480000  5000 3000 1500
+map-kb/Welcome.sol
+map-kb/Pods.sol
+map-kb/Diagonal.sol
+map-kb/JumpUp.sol
+map-kb/Race.sol
+map-kb/Circle.sol
+map-kb/Spinnerz.sol
+map-kb/MovingPlatforms.sol
+map-kb/Lap1.sol
+map-kb/JumpCourse.sol
+map-kb/CrossUp.sol
+map-kb/SSS.sol
+map-kb/CrossDown.sol
+map-kb/Teleporting.sol
+map-kb/BarelyAlive.sol
+map-kb/KB-Four-Curves.sol
+map-kb/Thwomped.sol
+map-kb/Cones.sol
+map-kb/Remember.sol
+map-kb/Wild.sol
+map-kb/MovingPlatforms2.sol
+map-kb/Sequence.sol
+map-kb/Diagonal2.sol
+map-kb/Lap2.sol
+map-kb/Grow&Shrink.sol

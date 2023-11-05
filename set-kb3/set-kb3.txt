@@ -1,0 +1,30 @@
+KodeBreaker Hard
+Difficulty: Hard through Advanced\\A set full of hard levels and challenges\Getting all coins will be tough.\ \
+KBIII
+shot-kb3/Slanted.png
+300000 350000 380000  2850 2500 2000
+map-kb3/Uturn.sol
+map-kb3/KB-Rampup.sol
+map-kb3/KB-Spiralin.sol
+map-kb3/KB-Curbs.sol
+map-kb3/Lit.sol
+map-kb3/KBMaze3.sol
+map-kb3/Platform.sol
+map-kb3/KB-Hardrise.sol
+map-kb3/EasyMaze.sol
+map-kb3/TresCaminos.sol
+map-kb3/Turn-Old.sol
+map-kb3/Gravity.sol
+map-kb3/Slanted.sol
+map-kb3/KB-Impossible.sol
+map-kb3/Floors.sol
+map-kb3/Triangle.sol
+map-kb3/HotSlide.sol
+map-kb3/KB-ZenMaze.sol
+map-kb3/SkatePark.sol
+map-kb3/KB-WoodenCourse.sol
+map-kb3/Squareway.sol
+map-kb3/KB-Bumperoo.sol
+map-kb3/Decimate.sol
+map-kb3/TreacherousPath.sol
+map-kb3/BulletTrains.sol

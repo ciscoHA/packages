@@ -1,0 +1,30 @@
+KodeBreaker Medium
+Difficulty: Medium through Hard\\25 More exciting levels but with a\little challenge to it.\ \
+KBII
+shot-kb2/TimeAttack4.png
+48000 60000 75000  1800 1550 1200
+map-kb2/Glassy.sol
+map-kb2/ActFast.sol
+map-kb2/Activation.sol
+map-kb2/TimeAttack1.sol
+map-kb2/GlassPyramid.sol
+map-kb2/KB-Zigzag.sol
+map-kb2/KB-Mover.sol
+map-kb2/FourLoops.sol
+map-kb2/TimeAttack2.sol
+map-kb2/KB-Tonesmaze.sol
+map-kb2/KBMaze.sol
+map-kb2/HawkRamps.sol
+map-kb2/InvisiblePaths.sol
+map-kb2/TimeAttack3.sol
+map-kb2/Leveled.sol
+map-kb2/Lava.sol
+map-kb2/LoopCourse.sol
+map-kb2/Beehive.sol
+map-kb2/TimeAttack4.sol
+map-kb2/Firepower.sol
+map-kb2/KBMaze2.sol
+map-kb2/KB-Crosses.sol
+map-kb2/Downslope.sol
+map-kb2/KodeBreaker.sol
+map-kb2/DreamLevel.sol

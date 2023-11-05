@@ -1,0 +1,30 @@
+KodeBreaker Advanced
+Difficulty: Advanced to Expert\\25 very hard and complex levels for\experienced players.\
+KBIV
+shot-kb4/KB-Climb.png
+300000 350000 450000  3100 2750 2000
+map-kb4/AroundTheBlock.sol
+map-kb4/GridMaze.sol
+map-kb4/SymmetryRise.sol
+map-kb4/Knockout.sol
+map-kb4/GlassBox.sol
+map-kb4/Deception.sol
+map-kb4/KB-iAngle.sol
+map-kb4/QuarterPipeJump.sol
+map-kb4/ThwompMaze.sol
+map-kb4/CrosswordPuzzle.sol
+map-kb4/KB-Hump.sol
+map-kb4/KB-Teleport.sol
+map-kb4/Connection.sol
+map-kb4/ProceedWithCaution.sol
+map-kb4/NeonRace.sol
+map-kb4/LoopCourse2.sol
+map-kb4/Activation2.sol
+map-kb4/KB-Translation.sol
+map-kb4/KB-Climb.sol
+map-kb4/TripleCones.sol
+map-kb4/KB-Updown.sol
+map-kb4/Utopia.sol
+map-kb4/SSS2.sol
+map-kb4/KB-iFinal.sol
+map-kb4/RotatingCube.sol
