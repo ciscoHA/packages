@@ -1,0 +1,13 @@
+Dave's Levels
+A series of freestyle training levels\ \Author: David Olsen\ \ \
+dave
+shot-dave/aaccel1.jpg
+
+map-dave/holes1.sol
+map-dave/icorners1.sol
+map-dave/seesaw1.sol
+map-dave/aaccel1.sol
+map-dave/rails.sol
+map-dave/loopy1.sol
+map-dave/aaccel2.sol
+map-dave/icorners2.sol
