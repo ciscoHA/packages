@@ -1,0 +1,10 @@
+DotSec
+Difficulty: Medium\\Some levels from the DotSec peoples\ \
+dotsec
+shot-dotsec/up_n_down.jpg
+9000 12500 20000  516 402 272
+map-dotsec/up_n_down.sol
+map-dotsec/straight.sol
+map-dotsec/half_pipe.sol
+map-dotsec/real.sol
+map-dotsec/glass_run.sol
