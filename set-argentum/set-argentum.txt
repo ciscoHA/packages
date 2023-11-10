@@ -1,0 +1,13 @@
+Neverball Argentum
+Difficulty: Hard
+argentum
+shot-argentum/jungle.png
+
+map-argentum/ag3.sol
+map-argentum/buzzer.sol
+map-argentum/transformer.sol
+map-argentum/arena.sol
+map-argentum/hopper.sol
+map-argentum/jungle.sol
+map-argentum/sierpinski.sol
+map-argentum/labyrinth.sol
