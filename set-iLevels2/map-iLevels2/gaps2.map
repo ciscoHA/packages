@@ -3,7 +3,7 @@
 {
 "classname" "worldspawn"
 "author" "Reshaun Francis"
-"version" "2.0"
+"version" "2.1"
 "back" "map-back/night-volcano.sol"
 "grad" "back/night-volcano.png"
 "shot" "shot-iLevels2/gaps2.png"
@@ -70,12 +70,12 @@
 }
 // brush 6
 {
-( 0 1920 -16 ) ( 128 1920 -16 ) ( 128 2048 -16 ) mtrl/invisible 0 0 0 0.5 0.5 134217728 0 0
 ( 128 2048 0 ) ( 128 1920 0 ) ( 0 1920 0 ) mtrl/goal 0 0 0 0.5 0.5 134217728 0 0
 ( 128 2040 0 ) ( 0 2040 0 ) ( 0 2040 -16 ) mtrl/invisible 0 0 0 0.5 0.5 134217728 0 0
 ( 8 2048 0 ) ( 8 1920 0 ) ( 8 1920 -16 ) mtrl/invisible 0 0 0 0.5 0.5 134217728 0 0
 ( 0 1928 0 ) ( 128 1928 0 ) ( 128 1928 -16 ) mtrl/invisible 0 0 0 0.5 0.5 134217728 0 0
 ( 120 1920 0 ) ( 120 2048 0 ) ( 120 2048 -16 ) mtrl/invisible 0 0 0 0.5 0.5 134217728 0 0
+( 50 64 -1 ) ( 48 64 -1 ) ( 50 -64 -1 ) mtrl/invisible 0 0 0 0.5 0.5 134217728 0 0
 }
 // brush 7
 {

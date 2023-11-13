@@ -19,8 +19,8 @@ map-iLevels4/four-curves.sol
 map-iLevels4/stairs2.sol
 map-iLevels4/dance3.sol
 map-iLevels4/poker2.sol
-map-iLevels4/bigcone2.sol
 map-iLevels4/longpipe2.sol
+map-iLevels4/bigcone2.sol
 map-iLevels4/littlecones2.sol
 map-iLevels4/mazebump2.sol
 map-iLevels4/narrow-rotating-bridges.sol

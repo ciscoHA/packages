@@ -3,7 +3,7 @@
 {
 "classname" "worldspawn"
 "author" "Reshaun Francis"
-"version" "1.0"
+"version" "1.1"
 "back" "map-back/night-volcano.sol"
 "grad" "back/night-volcano.png"
 "shot" "shot-iLevels5/quads2.png"
@@ -844,18 +844,18 @@
 ( 744 744 0 ) ( 744 680 0 ) ( 680 744 0 ) mtrl/coin-pad-dot-blue 64 64 0 0.125 0.125 0 0 0
 ( 744 696 0 ) ( 680 696 0 ) ( 744 696 -16 ) mtrl/invisible 112 0 0 0.5 0.5 0 0 0
 ( 696 736 0 ) ( 696 736 -16 ) ( 696 672 0 ) mtrl/invisible 112 0 0 0.5 0.5 0 0 0
-( 680 680 -16 ) ( 744 680 -16 ) ( 680 744 -16 ) mtrl/invisible 112 16 0 0.5 0.5 0 0 0
 ( 680 680 -16 ) ( 680 680 0 ) ( 744 680 -16 ) mtrl/invisible 112 0 0 0.5 0.5 0 0 0
 ( 680 680 -16 ) ( 680 744 -16 ) ( 680 680 0 ) mtrl/invisible 112 0 0 0.5 0.5 0 0 0
+( -64 14 -1 ) ( -64 12 -1 ) ( 64 14 -1 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
 }
 // brush 60
 {
 ( 712 712 0 ) ( 712 648 0 ) ( 648 712 0 ) mtrl/coin-pad-dot-blue 64 64 0 0.125 0.125 0 0 0
 ( 712 664 0 ) ( 648 664 0 ) ( 712 664 -16 ) mtrl/invisible 112 0 0 0.5 0.5 0 0 0
 ( 664 704 0 ) ( 664 704 -16 ) ( 664 640 0 ) mtrl/invisible 112 0 0 0.5 0.5 0 0 0
-( 648 648 -16 ) ( 712 648 -16 ) ( 648 712 -16 ) mtrl/invisible 112 16 0 0.5 0.5 0 0 0
 ( 648 648 -16 ) ( 648 648 0 ) ( 712 648 -16 ) mtrl/invisible 112 0 0 0.5 0.5 0 0 0
 ( 648 648 -16 ) ( 648 712 -16 ) ( 648 648 0 ) mtrl/invisible 112 0 0 0.5 0.5 0 0 0
+( -64 14 -1 ) ( -64 12 -1 ) ( 64 14 -1 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
 }
 // brush 61
 {
