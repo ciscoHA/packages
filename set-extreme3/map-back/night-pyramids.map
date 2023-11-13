@@ -1,0 +1,1053 @@
+
+// entity 0
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"image" "png/night-pyramids2"
+"yrot" "180"
+"width" "135.0"
+"height" "45.0"
+"xrot" "-4"
+}
+// entity 1
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"height" "40.0"
+"width" "100.0"
+"image" "png/night-pyramids1"
+"yrot" "-135"
+"xrot" "-4"
+}
+// entity 2
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"image" "png/night-pyramids3"
+"yrot" "140"
+"width" "90.0"
+"height" "40.0"
+"xrot" "-4"
+}
+// entity 3
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"image" "png/night-pyramids2"
+"yrot" "50"
+"width" "135.0"
+"height" "45.0"
+"xrot" "-4"
+}
+// entity 4
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"image" "png/night-desert-palm-tree1"
+"yrot" "108"
+"width" "25.0"
+"height" "40.0"
+"xrot" "-4"
+}
+// entity 5
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"height" "40.0"
+"width" "100.0"
+"image" "png/night-pyramids1"
+"yrot" "15"
+"xrot" "-4"
+}
+// entity 6
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"image" "png/night-pyramids2"
+"yrot" "-55"
+"width" "135.0"
+"height" "45.0"
+"xrot" "-4"
+}
+// entity 7
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"image" "png/night-pyramids3"
+"yrot" "-90"
+"width" "90.0"
+"height" "40.0"
+"xrot" "-4"
+}
+// entity 8
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"height" "40.0"
+"width" "100.0"
+"image" "png/night-pyramids1"
+"yrot" "90"
+"xrot" "-4"
+}
+// entity 9
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"image" "png/night-desert-palm-tree3"
+"yrot" "120"
+"width" "20.0"
+"height" "40.0"
+"xrot" "-4"
+}
+// entity 10
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"image" "png/night-desert-palm-tree2"
+"yrot" "-118"
+"width" "20.0"
+"height" "40.0"
+"xrot" "-4"
+}
+// entity 11
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"image" "png/night-desert-palm-tree1"
+"yrot" "-75"
+"width" "30.0"
+"height" "40.0"
+"xrot" "-4"
+}
+// entity 12
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"image" "png/night-desert-palm-tree2"
+"yrot" "-8"
+"width" "20.0"
+"height" "40.0"
+"xrot" "-4"
+}
+// entity 13
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"image" "png/night-desert-palm-tree2"
+"yrot" "158"
+"width" "25.0"
+"height" "40.0"
+"xrot" "-4"
+}
+// entity 14
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"image" "png/night-desert-palm-tree2"
+"yrot" "70"
+"width" "20.0"
+"height" "40.0"
+"xrot" "-4"
+}
+// entity 15
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"image" "png/night-desert-palm-tree3"
+"yrot" "-108 "
+"width" "20.0"
+"height" "40.0"
+"xrot" "-4"
+}
+// entity 16
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"image" "png/night-desert-palm-tree3"
+"yrot" "30"
+"width" "20.0"
+"height" "40.0"
+"xrot" "-4"
+}
+// entity 17
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"image" "png/night-desert-palm-tree1"
+"yrot" "-154"
+"width" "25.0"
+"height" "40.0"
+"xrot" "-4"
+}
+// entity 18
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"image" "png/night-pyramids3"
+"yrot" "-23"
+"width" "90.0"
+"height" "40.0"
+"xrot" "-4"
+}
+// entity 19
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"image" "png/night-desert-dunes2"
+"yrot" "+22.5"
+"width" "130.0"
+"height" "20.0"
+"xrot" "-12"
+"origin" "-24 56 0"
+}
+// entity 20
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"image" "png/night-desert-dunes2"
+"yrot" "+157.5"
+"width" "130.0"
+"height" "20.0"
+"xrot" "-12"
+"origin" "-24 -56 0"
+}
+// entity 21
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"image" "png/night-desert-dunes3"
+"yrot" "+67.5"
+"width" "130.0"
+"height" "20.0"
+"xrot" "-12"
+"origin" "-56 24 0"
+}
+// entity 22
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"image" "png/night-desert-dunes1"
+"yrot" "+112.5"
+"width" "130.0"
+"height" "20.0"
+"xrot" "-12"
+"origin" "-56 -24 0"
+}
+// entity 23
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"image" "png/night-desert-dunes1"
+"yrot" "+225"
+"width" "130.0"
+"height" "20.0"
+"xrot" "-8"
+"origin" "-64 -64 0"
+}
+// entity 24
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"image" "png/night-desert-dunes1"
+"yrot" "-45"
+"width" "130.0"
+"height" "20.0"
+"xrot" "-8"
+"origin" "64 64 0"
+}
+// entity 25
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"image" "png/night-desert-dunes1"
+"yrot" "+45"
+"width" "130.0"
+"height" "20.0"
+"xrot" "-8"
+"origin" "-64 64 0"
+}
+// entity 26
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"image" "png/night-desert-dunes3"
+"yrot" "-90"
+"width" "130.0"
+"height" "20.0"
+"xrot" "-8"
+"origin" "72 0 0"
+}
+// entity 27
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"image" "png/night-desert-dunes1"
+"yrot" "-225"
+"width" "130.0"
+"height" "20.0"
+"xrot" "-8"
+"origin" "64 -64 0"
+}
+// entity 28
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"image" "png/night-desert-dunes3"
+"yrot" "+180"
+"width" "130.0"
+"height" "20.0"
+"xrot" "-8"
+"origin" "0 -72 0"
+}
+// entity 29
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"image" "png/night-desert-dunes3"
+"yrot" "+90"
+"width" "130.0"
+"height" "20.0"
+"xrot" "-8"
+"origin" "-72 0 0"
+}
+// entity 30
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"image" "png/night-desert-dunes3"
+"yrot" "-0"
+"width" "130.0"
+"height" "20.0"
+"xrot" "-8"
+"origin" "0 72 0"
+}
+// entity 31
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"image" "png/night-desert-dunes1"
+"yrot" "+225"
+"width" "130.0"
+"height" "20.0"
+"xrot" "-16"
+"origin" "-24 -24 0"
+}
+// entity 32
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"image" "png/night-desert-dunes2"
+"yrot" "-45"
+"width" "130.0"
+"height" "20.0"
+"xrot" "-16"
+"origin" "24 24 0"
+}
+// entity 33
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"image" "png/night-desert-dunes2"
+"yrot" "+45"
+"width" "130.0"
+"height" "20.0"
+"xrot" "-16"
+"origin" "-24 24 0"
+}
+// entity 34
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"image" "png/night-desert-dunes1"
+"yrot" "-90"
+"width" "130.0"
+"height" "20.0"
+"xrot" "-16"
+"origin" "32 0 0"
+}
+// entity 35
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"image" "png/night-desert-dunes3"
+"yrot" "-225"
+"width" "130.0"
+"height" "20.0"
+"xrot" "-16"
+"origin" "24 -24 0"
+}
+// entity 36
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"image" "png/night-desert-dunes2"
+"yrot" "+180"
+"width" "130.0"
+"height" "20.0"
+"xrot" "-16"
+"origin" "0 -32 0"
+}
+// entity 37
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"image" "png/night-desert-dunes3"
+"yrot" "+90"
+"width" "130.0"
+"height" "20.0"
+"xrot" "-16"
+"origin" "-32 0 0"
+}
+// entity 38
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"image" "png/night-desert-dunes1"
+"yrot" "-0"
+"width" "130.0"
+"height" "20.0"
+"xrot" "-16"
+"origin" "0 32 0"
+}
+// entity 39
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"image" "png/night-desert-dunes3"
+"yrot" "-157.5"
+"width" "130.0"
+"height" "20.0"
+"xrot" "-12"
+"origin" "24 -56 0"
+}
+// entity 40
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"image" "png/night-desert-dunes1"
+"yrot" "-112.5"
+"width" "130.0"
+"height" "20.0"
+"xrot" "-12"
+"origin" "56 -24 0"
+}
+// entity 41
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"image" "png/night-desert-dunes2"
+"yrot" "-67.5"
+"width" "130.0"
+"height" "20.0"
+"xrot" "-12"
+"origin" "56 24 0"
+}
+// entity 42
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"image" "png/night-desert-dunes3"
+"yrot" "-22.5"
+"width" "130.0"
+"height" "20.0"
+"xrot" "-12"
+"origin" "24 56 0"
+}
+// entity 43
+{
+"classname" "worldspawn"
+}
+// entity 44
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"image" "png/night-moon"
+"height" "28.0"
+"width" "28.0"
+"xrot" "1"
+"yrot" "0"
+}
+// entity 45
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +116.62343     +0.00000     +0.00000"
+"height" "  +116.62343     +0.00000     +0.00000"
+"xrot" "   +32.00000     +0.00000     +0.00000"
+"yrot" "   +292.50000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 46
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +116.62343     +0.00000     +0.00000"
+"height" "  +116.62343     +0.00000     +0.00000"
+"xrot" "   +11.00000     +0.00000     +0.00000"
+"yrot" "   +180.00000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 47
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +116.62343     +0.00000     +0.00000"
+"height" "  +116.62343     +0.00000     +0.00000"
+"xrot" "   +11.00000     +0.00000     +0.00000"
+"yrot" "   +225.00000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 48
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +116.62343     +0.00000     +0.00000"
+"height" "  +116.62343     +0.00000     +0.00000"
+"xrot" "   +32.00000     +0.00000     +0.00000"
+"yrot" "   +22.50000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 49
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +116.62343     +0.00000     +0.00000"
+"height" "  +116.62343     +0.00000     +0.00000"
+"xrot" "   +11.00000     +0.00000     +0.00000"
+"yrot" "   +135.00000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 50
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +116.62343     +0.00000     +0.00000"
+"height" "  +116.62343     +0.00000     +0.00000"
+"xrot" "   +11.00000     +0.00000     +0.00000"
+"yrot" "   +270.00000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 51
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +116.62343     +0.00000     +0.00000"
+"height" "  +116.62343     +0.00000     +0.00000"
+"xrot" "   +11.00000     +0.00000     +0.00000"
+"yrot" "   +315.00000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 52
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +116.62343     +0.00000     +0.00000"
+"height" "  +116.62343     +0.00000     +0.00000"
+"xrot" "   +11.00000     +0.00000     +0.00000"
+"yrot" "   +45.00000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 53
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +116.62343     +0.00000     +0.00000"
+"height" "  +116.62343     +0.00000     +0.00000"
+"xrot" "   +32.00000     +0.00000     +0.00000"
+"yrot" "   +157.50000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 54
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +116.62343     +0.00000     +0.00000"
+"height" "  +116.62343     +0.00000     +0.00000"
+"xrot" "   +32.00000     +0.00000     +0.00000"
+"yrot" "   +112.50000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 55
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +116.62343     +0.00000     +0.00000"
+"height" "  +116.62343     +0.00000     +0.00000"
+"xrot" "   +32.00000     +0.00000     +0.00000"
+"yrot" "   +247.50000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 56
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +116.62343     +0.00000     +0.00000"
+"height" "  +116.62343     +0.00000     +0.00000"
+"xrot" "   +32.00000     +0.00000     +0.00000"
+"yrot" "   +202.50000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 57
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +116.62343     +0.00000     +0.00000"
+"height" "  +116.62343     +0.00000     +0.00000"
+"xrot" "   +11.00000     +0.00000     +0.00000"
+"yrot" "   +90.00000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 58
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +116.62343     +0.00000     +0.00000"
+"height" "  +116.62343     +0.00000     +0.00000"
+"xrot" "   +32.00000     +0.00000     +0.00000"
+"yrot" "   +337.50000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 59
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +116.62343     +0.00000     +0.00000"
+"height" "  +116.62343     +0.00000     +0.00000"
+"xrot" "   +32.00000     +0.00000     +0.00000"
+"yrot" "   +67.50000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 60
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +116.62343     +0.00000     +0.00000"
+"height" "  +116.62343     +0.00000     +0.00000"
+"xrot" "   +11.00000     +0.00000     +0.00000"
+"yrot" "   +0.00000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 61
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +116.62343     +0.00000     +0.00000"
+"height" "  +116.62343     +0.00000     +0.00000"
+"xrot" "   +32.00000     +0.00000     +0.00000"
+"yrot" "   +270.00000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 62
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +116.62343     +0.00000     +0.00000"
+"height" "  +116.62343     +0.00000     +0.00000"
+"xrot" "   +32.00000     +0.00000     +0.00000"
+"yrot" "   +0.00000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 63
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +116.62343     +0.00000     +0.00000"
+"height" "  +116.62343     +0.00000     +0.00000"
+"xrot" "   +32.00000     +0.00000     +0.00000"
+"yrot" "   +90.00000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 64
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +116.62343     +0.00000     +0.00000"
+"height" "  +116.62343     +0.00000     +0.00000"
+"xrot" "   +32.00000     +0.00000     +0.00000"
+"yrot" "   +180.00000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 65
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +116.62343     +0.00000     +0.00000"
+"height" "  +116.62343     +0.00000     +0.00000"
+"xrot" "   +90.00000     +0.00000     +0.00000"
+"yrot" "   +45.00000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 66
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +116.62343     +0.00000     +0.00000"
+"height" "  +116.62343     +0.00000     +0.00000"
+"xrot" "   +70.00000     +0.00000     +0.00000"
+"yrot" "   +225.00000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 67
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +116.62343     +0.00000     +0.00000"
+"height" "  +116.62343     +0.00000     +0.00000"
+"xrot" "   +70.00000     +0.00000     +0.00000"
+"yrot" "   +45.00000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 68
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +116.62343     +0.00000     +0.00000"
+"height" "  +116.62343     +0.00000     +0.00000"
+"xrot" "   +70.00000     +0.00000     +0.00000"
+"yrot" "   +135.00000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 69
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +116.62343     +0.00000     +0.00000"
+"height" "  +116.62343     +0.00000     +0.00000"
+"xrot" "   +11.00000     +0.00000     +0.00000"
+"yrot" "   +292.50000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 70
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +116.62343     +0.00000     +0.00000"
+"height" "  +116.62343     +0.00000     +0.00000"
+"xrot" "   +11.00000     +0.00000     +0.00000"
+"yrot" "   +157.50000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 71
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +116.62343     +0.00000     +0.00000"
+"height" "  +116.62343     +0.00000     +0.00000"
+"xrot" "   +11.00000     +0.00000     +0.00000"
+"yrot" "   +112.50000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 72
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +116.62343     +0.00000     +0.00000"
+"height" "  +116.62343     +0.00000     +0.00000"
+"xrot" "   +11.00000     +0.00000     +0.00000"
+"yrot" "   +247.50000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 73
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +116.62343     +0.00000     +0.00000"
+"height" "  +116.62343     +0.00000     +0.00000"
+"xrot" "   +11.00000     +0.00000     +0.00000"
+"yrot" "   +202.50000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 74
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +116.62343     +0.00000     +0.00000"
+"height" "  +116.62343     +0.00000     +0.00000"
+"xrot" "   +11.00000     +0.00000     +0.00000"
+"yrot" "   +22.50000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 75
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +116.62343     +0.00000     +0.00000"
+"height" "  +116.62343     +0.00000     +0.00000"
+"xrot" "   +11.00000     +0.00000     +0.00000"
+"yrot" "   +337.50000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 76
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +116.62343     +0.00000     +0.00000"
+"height" "  +116.62343     +0.00000     +0.00000"
+"xrot" "   +11.00000     +0.00000     +0.00000"
+"yrot" "   +67.50000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 77
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +116.62343     +0.00000     +0.00000"
+"height" "  +116.62343     +0.00000     +0.00000"
+"xrot" "   +32.00000     +0.00000     +0.00000"
+"yrot" "   +45.00000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 78
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +116.62343     +0.00000     +0.00000"
+"height" "  +116.62343     +0.00000     +0.00000"
+"xrot" "   +32.00000     +0.00000     +0.00000"
+"yrot" "   +135.00000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 79
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +116.62343     +0.00000     +0.00000"
+"height" "  +116.62343     +0.00000     +0.00000"
+"xrot" "   +32.00000     +0.00000     +0.00000"
+"yrot" "   +315.00000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 80
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +116.62343     +0.00000     +0.00000"
+"height" "  +116.62343     +0.00000     +0.00000"
+"xrot" "   +32.00000     +0.00000     +0.00000"
+"yrot" "   +225.00000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 81
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +127.62343     +0.00000     +0.00000"
+"height" "  +127.62343     +0.00000     +0.00000"
+"xrot" "   +54.00000     +0.00000     +0.00000"
+"yrot" "   +270.00000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 82
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +127.62343     +0.00000     +0.00000"
+"height" "  +127.62343     +0.00000     +0.00000"
+"xrot" "   +54.00000     +0.00000     +0.00000"
+"yrot" "   +180.00000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 83
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +127.62343     +0.00000     +0.00000"
+"height" "  +127.62343     +0.00000     +0.00000"
+"xrot" "   +54.00000     +0.00000     +0.00000"
+"yrot" "   +90.00000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 84
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +127.62343     +0.00000     +0.00000"
+"height" "  +127.62343     +0.00000     +0.00000"
+"xrot" "   +54.00000     +0.00000     +0.00000"
+"yrot" "   +0.00000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 85
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +117.62343     +0.00000     +0.00000"
+"height" "  +117.62343     +0.00000     +0.00000"
+"xrot" "   +50.00000     +0.00000     +0.00000"
+"yrot" "   +135.00000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 86
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +117.62343     +0.00000     +0.00000"
+"height" "  +117.62343     +0.00000     +0.00000"
+"xrot" "   +50.00000     +0.00000     +0.00000"
+"yrot" "   +315.00000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 87
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +117.62343     +0.00000     +0.00000"
+"height" "  +117.62343     +0.00000     +0.00000"
+"xrot" "   +50.00000     +0.00000     +0.00000"
+"yrot" "   +225.00000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 88
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +117.62343     +0.00000     +0.00000"
+"height" "  +117.62343     +0.00000     +0.00000"
+"xrot" "   +50.00000     +0.00000     +0.00000"
+"yrot" "   +45.00000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}
+// entity 89
+{
+"classname" "info_null"
+"image" "png/stars4"
+"width" "  +116.62343     +0.00000     +0.00000"
+"height" "  +116.62343     +0.00000     +0.00000"
+"xrot" "   +70.00000     +0.00000     +0.00000"
+"yrot" "   +315.00000     +0.00000     +0.00000"
+"zrot" "   +0.00000     +0.00000     +0.00000"
+"dist" "  +300.00000"
+"time" "    +1.00000"
+}

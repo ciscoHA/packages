@@ -1,0 +1,30 @@
+Neverball Extreme II
+Difficulty: Intermediate through Expert\\25 moderate levels for amateur players.\Author: Adacrop
+extreme-II
+shot-extreme2/four-ways.png
+
+map-extreme2/walk.sol
+map-extreme2/movingbridge.sol
+map-extreme2/adacrop-maze.sol
+map-extreme2/Turbines2.sol
+map-extreme2/trainsplit.sol
+map-extreme2/coingap.sol
+map-extreme2/dips.sol
+map-extreme2/ripples.sol
+map-extreme2/four-ways.sol
+map-extreme2/check2.sol
+map-extreme2/wobbly.sol
+map-extreme2/movers2.sol
+map-extreme2/pirates.sol
+map-extreme2/sync2.sol
+map-extreme2/cake.sol
+map-extreme2/rampup2.sol
+map-extreme2/mover2.sol
+map-extreme2/waves2.sol
+map-extreme2/hardrise2.sol
+map-extreme2/bigtube2.sol
+map-extreme2/adacrop-maze2.sol
+map-extreme2/stools.sol
+map-extreme2/kickflip.sol
+map-extreme2/challenger.sol
+map-extreme2/safespots.sol
