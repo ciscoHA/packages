@@ -1,0 +1,12 @@
+Ctoan's Levels
+Difficulty: TODO\\ TODO: a good description of this levelset\\\
+klm
+shot-klm/cornerbump.jpg
+36000 60000 180000  1800 1200 0
+map-klm/liftjump.sol
+map-klm/mov_bridges.sol
+map-klm/cornerbump.sol
+map-klm/edgebump.sol
+map-klm/jumppad.sol
+map-klm/narrow_acrobatics.sol
+map-klm/bowls.sol
