@@ -1,0 +1,11 @@
+Epsy's Levels
+Difficulty: ehm...let me think\\\\Author: the epsy
+epsy
+shot-epsy/maze.jpg
+
+map-epsy/maze.sol
+map-epsy/crashtest.sol
+map-epsy/maximini.sol
+map-epsy/thedescent.sol
+map-epsy/backtosurface.sol
+map-epsy/lookaround.sol
