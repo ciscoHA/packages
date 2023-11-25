@@ -1,0 +1,31 @@
+SYMPHONY LEVEL REMAKE
+A REMAKE SET GENERATED MY CREATED LEVEL
+syRemake
+shot-sy/1.png
+
+map-syRemake/1.sol
+map-syRemake/2.sol
+map-syRemake/3.sol
+map-syRemake/4.sol
+map-syRemake/5.sol
+map-syRemake/10.sol
+map-syRemake/7.sol
+map-syRemake/8.sol
+map-syRemake/9.sol
+map-syRemake/6.sol
+map-syRemake/11.sol
+map-syRemake/12.sol
+map-syRemake/13.sol
+map-syRemake/14.sol
+map-syRemake/15.sol
+map-syRemake/17.sol
+map-syRemake/18.sol
+map-syRemake/19.sol
+map-syRemake/20.sol
+map-syRemake/16.sol
+map-syRemake/21.sol
+map-syRemake/24.sol
+map-syRemake/25.sol
+map-syRemake/22.sol
+map-syRemake/23.sol
+
