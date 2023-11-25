@@ -1,0 +1,30 @@
+sudo chmod 777 -R neverball
+Difficulty: Medium to Expert\25 themed levels from chmod 700.\\DO NOT PLAY CHALLENGE MODE,\until you beat all levels normally.
+chmod
+shot-chmod/shot16.png
+300000 360000 599999  6000 5000 0
+map-chmod/01_LevelOne.sol
+map-chmod/02_Sines.sol
+map-chmod/03_OverusedThemes.sol
+map-chmod/04_Endurance.sol
+map-chmod/Bonus1_PrimeLuck.sol
+map-chmod/05_LosingGround.sol
+map-chmod/06_Sinking.sol
+map-chmod/07_SpeedFerry.sol
+map-chmod/08_Apocalypse.sol
+map-chmod/Bonus2_HideNotRun.sol
+map-chmod/09_Speed2018.sol
+map-chmod/10_PowersOfTwo.sol
+map-chmod/11_Liars.sol
+map-chmod/12_RunningAmok.sol
+map-chmod/Bonus3_Race.sol
+map-chmod/13_RestRelaxNot.sol
+map-chmod/14_InvisHalfPipe.sol
+map-chmod/15_WarpedRamps.sol
+map-chmod/16_Lifters.sol
+map-chmod/Bonus4_SkillBall2.sol
+map-chmod/17_SwitchMaze.sol
+map-chmod/18_TimePuzzle.sol
+map-chmod/19_SizePuzzle.sol
+map-chmod/20_Adventure.sol
+map-chmod/Bonus5_chmod777.sol
