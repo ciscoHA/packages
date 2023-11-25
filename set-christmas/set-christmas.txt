@@ -1,0 +1,30 @@
+Reshaun's Christmas Levels
+Dificulty: Casual through Hard\\Merry Christmas.\\Author: Reshaun Francis
+christmas
+shot-christmas/Xmas-peasy.png
+
+map-christmas/Xmas-easy.sol
+map-christmas/Xmas-maze.sol
+map-christmas/Xmas-peasy.sol
+map-christmas/Xmas-ripple.sol
+map-christmas/Xmas-snow.sol
+map-christmas/Xmas-bends.sol
+map-christmas/Xmas-bumper.sol
+map-christmas/Xmas-tree-run.sol
+map-christmas/Xmas-bumps.sol
+map-christmas/Xmas-circuit.sol
+map-christmas/Xmas-spiral.sol
+map-christmas/Xmas-tilt.sol
+map-christmas/Xmas-ups-and-downs.sol
+map-christmas/Xmas-curved-angle.sol
+map-christmas/Xmas-thwomp-present.sol
+map-christmas/Xmas-halfpipe.sol
+map-christmas/Xmas-leapjumps.sol
+map-christmas/Xmas-bounces.sol
+map-christmas/Xmas-curve-narrows.sol
+map-christmas/Xmas-labyrinth.sol
+map-christmas/Xmas-pitfalls.sol
+map-christmas/Xmas-pyramids.sol
+map-christmas/Xmas-blocks.sol
+map-christmas/Xmas-dance.sol
+map-christmas/Xmas-presents.sol

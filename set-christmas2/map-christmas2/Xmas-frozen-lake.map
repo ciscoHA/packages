@@ -1,0 +1,1253 @@
+
+// entity 0
+{
+"classname" "worldspawn"
+"message" "Let's go ice skating."
+"coin_hs" "310 210"
+"time_hs" "500 1000"
+"goal" "110"
+"time" "16000"
+"song" "bgm/track2.ogg"
+"shot" "shot-christmas2/Xmas-frozen-lake.png"
+"grad" "back/snowcity-day.png"
+"back" "map-back/snowcity-day.sol"
+"version" "1.1"
+"author" "Reshaun Francis"
+"bonus" "1"
+"goal_hs" "2500 3000"
+// brush 0
+{
+( 1216 1280 -36 ) ( 1472 1024 36 ) ( 1472 1024 -36 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( 1408 1152 -36 ) ( 1472 1152 36 ) ( 1472 1152 -36 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( 1216 1408 36 ) ( 1536 1088 -36 ) ( 1536 1088 36 ) mtrl/turf-grey-xmas 0 0 0 0.5 0.5 0 0 0
+( 1216 1408 -36 ) ( 1216 1344 36 ) ( 1216 1344 -36 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -336 64 16 ) ( -312 64 16 ) ( -336 -64 16 ) mtrl/turf-snow 0 0 0 0.5 0.5 0 0 0
+( -256 64 -32 ) ( -288 64 -32 ) ( -256 -64 -32 ) mtrl/turf-grey-xmas 0 0 0 0.5 0.5 0 0 0
+}
+// brush 1
+{
+( 452 1284 16 ) ( 452 1404 15 ) ( 452 1404 16 ) mtrl/invisible 0 0 0 0.5 0.5 134217728 0 0
+( 452 1284 15 ) ( 572 1284 16 ) ( 572 1284 15 ) mtrl/invisible 0 0 0 0.5 0.5 134217728 0 0
+( 452 1284 15 ) ( 572 1404 15 ) ( 452 1404 15 ) mtrl/invisible 0 0 0 0.5 0.5 134217728 0 0
+( 572 1284 15 ) ( 572 1404 16 ) ( 572 1404 15 ) mtrl/invisible 0 0 0 0.5 0.5 134217728 0 0
+( 452 1404 16 ) ( 572 1404 15 ) ( 572 1404 16 ) mtrl/invisible 0 0 0 0.5 0.5 134217728 0 0
+( 572 1284 16 ) ( 452 1404 16 ) ( 572 1404 16 ) mtrl/goal-xmas 128 0 0 0.5 0.5 134217728 0 0
+}
+// brush 2
+{
+( -256 1144 -8 ) ( -256 -144 0 ) ( -256 -144 -8 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -88 -320 -8 ) ( 1208 -320 0 ) ( 1208 -320 -8 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( 1280 1048 0 ) ( 1280 -248 -8 ) ( 1280 -248 0 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -184 1216 0 ) ( 1104 1216 -8 ) ( 1104 1216 0 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -152 528 0 ) ( 1272 -248 0 ) ( 1208 -312 0 ) mtrl/blue-sea 0 0 0 0.5 0.5 0 0 0
+( 1288 -248 -8 ) ( 1224 -312 -8 ) ( 1224 -312 0 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -216 -296 -8 ) ( -152 -360 0 ) ( -152 -360 -8 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -264 1144 -64 ) ( -200 1208 -64 ) ( -264 1144 64 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( 1256 1176 0 ) ( 1320 1112 -8 ) ( 1320 1112 0 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -256 64 -32 ) ( -288 64 -32 ) ( -256 -64 -32 ) mtrl/turf-grey-xmas 0 0 0 0.5 0.5 0 0 0
+}
+// brush 3
+{
+( 1088 -512 36 ) ( 1344 -256 -36 ) ( 1344 -256 36 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( 1216 -512 36 ) ( 1216 -448 -36 ) ( 1216 -448 36 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( 1152 -576 -36 ) ( 1472 -256 36 ) ( 1472 -256 -36 ) mtrl/turf-grey-xmas 0 0 0 0.5 0.5 0 0 0
+( 1408 -256 36 ) ( 1472 -256 -36 ) ( 1472 -256 36 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -400 0 16 ) ( -376 0 16 ) ( -400 -128 16 ) mtrl/turf-snow 0 0 0 0.5 0.5 0 0 0
+( -256 64 -32 ) ( -288 64 -32 ) ( -256 -64 -32 ) mtrl/turf-grey-xmas 0 0 0 0.5 0.5 0 0 0
+}
+// brush 4
+{
+( 1344 -256 12 ) ( 1344 -256 -36 ) ( 1280 -256 -36 ) mtrl/invisible 4 -4 0 0.5 0.5 0 0 0
+( 1344 -192 16 ) ( 1344 1088 -36 ) ( 1344 -192 -36 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( 1344 1152 12 ) ( 1280 1152 -36 ) ( 1344 1152 -36 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( 1344 1088 16 ) ( 1280 -192 0 ) ( 1280 1088 0 ) mtrl/turf-snow 0 0 0 0.5 0.5 0 0 0
+( 1280 1088 0 ) ( 1280 -192 -36 ) ( 1280 1088 -36 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -256 64 -32 ) ( -288 64 -32 ) ( -256 -64 -32 ) mtrl/turf-grey-xmas 0 0 0 0.5 0.5 0 0 0
+}
+// brush 5
+{
+( 1414 -256 -42 ) ( 1337 -256 -42 ) ( 1414 -256 34 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( 1472 -192 -36 ) ( 1472 1088 36 ) ( 1472 1088 -36 ) mtrl/turf-grey-xmas 0 0 0 -0.5 0.5 0 0 0
+( 1408 1152 -36 ) ( 1344 1152 36 ) ( 1344 1152 -36 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( 1344 -192 36 ) ( 1344 1088 -36 ) ( 1344 1088 36 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( 1408 -192 16 ) ( 1344 1088 16 ) ( 1408 1088 16 ) mtrl/turf-snow 0 0 0 0.5 0.5 0 0 0
+( -256 64 -32 ) ( -288 64 -32 ) ( -256 -64 -32 ) mtrl/turf-grey-xmas 0 0 0 0.5 0.5 0 0 0
+}
+// brush 6
+{
+( -126 -450 -36 ) ( -382 -194 36 ) ( -382 -194 -36 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -400 -256 36 ) ( -464 -256 36 ) ( -464 -256 -36 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -128 -576 36 ) ( -448 -256 -36 ) ( -448 -256 36 ) mtrl/turf-grey-xmas 0 0 0 0.5 0.5 0 0 0
+( -192 -384 -36 ) ( -192 -512 -36 ) ( -192 -512 16 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -192 -384 16 ) ( -192 -512 16 ) ( -448 -256 16 ) mtrl/turf-snow 0 0 0 0.5 0.5 0 0 0
+( -256 64 -32 ) ( -288 64 -32 ) ( -256 -64 -32 ) mtrl/turf-grey-xmas 0 0 0 0.5 0.5 0 0 0
+}
+// brush 7
+{
+( -386 1086 -36 ) ( -130 1342 36 ) ( -130 1342 -36 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -192 1360 36 ) ( -192 1424 36 ) ( -192 1424 -36 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -512 1088 36 ) ( -192 1408 -36 ) ( -192 1408 36 ) mtrl/turf-grey-xmas 0 0 0 0.5 0.5 0 0 0
+( -399 1152 36 ) ( -477 1152 -36 ) ( -477 1152 36 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -464 64 16 ) ( -440 64 16 ) ( -464 -64 16 ) mtrl/turf-snow 0 0 0 0.5 0.5 0 0 0
+( -256 64 -32 ) ( -288 64 -32 ) ( -256 -64 -32 ) mtrl/turf-grey-xmas 0 0 0 0.5 0.5 0 0 0
+}
+// brush 8
+{
+( 1152 -448 16 ) ( 1280 -256 0 ) ( 1344 -256 16 ) mtrl/turf-snow 0 0 0 0.5 0.5 0 0 0
+( 1344 -256 16 ) ( 1152 -448 -36 ) ( 1152 -448 16 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( 1216 -384 16 ) ( 1216 -320 -36 ) ( 1216 -320 0 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( 1344 -256 -36 ) ( 1280 -256 0 ) ( 1280 -256 -36 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( 1152 -384 0 ) ( 1280 -256 -36 ) ( 1280 -256 0 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -256 64 -32 ) ( -288 64 -32 ) ( -256 -64 -32 ) mtrl/turf-grey-xmas 0 0 0 0.5 0.5 0 0 0
+}
+// brush 9
+{
+( 1216 1280 12 ) ( 1216 1280 -36 ) ( 1216 1216 -36 ) mtrl/invisible 4 -4 0 0.5 0.5 0 0 0
+( 1152 1280 16 ) ( -128 1280 -36 ) ( 1152 1280 -36 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -192 1280 12 ) ( -192 1216 -36 ) ( -192 1280 -36 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -128 1280 16 ) ( 1152 1216 0 ) ( -128 1216 0 ) mtrl/turf-snow 0 0 0 0.5 0.5 0 0 0
+( -128 1216 0 ) ( 1152 1216 -36 ) ( -128 1216 -36 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -256 64 -32 ) ( -288 64 -32 ) ( -256 -64 -32 ) mtrl/turf-grey-xmas 0 0 0 0.5 0.5 0 0 0
+}
+// brush 10
+{
+( 1216 1350 -42 ) ( 1216 1273 -42 ) ( 1216 1350 34 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( 1152 1408 -36 ) ( -128 1408 36 ) ( -128 1408 -36 ) mtrl/turf-grey-xmas 0 0 0 -0.5 0.5 0 0 0
+( -192 1344 -36 ) ( -192 1280 36 ) ( -192 1280 -36 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( 1152 1280 36 ) ( -128 1280 -36 ) ( -128 1280 36 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( 1152 1344 16 ) ( -128 1280 16 ) ( -128 1344 16 ) mtrl/turf-snow 0 0 0 0.5 0.5 0 0 0
+( -256 64 -32 ) ( -288 64 -32 ) ( -256 -64 -32 ) mtrl/turf-grey-xmas 0 0 0 0.5 0.5 0 0 0
+}
+// brush 11
+{
+( -192 -384 12 ) ( -192 -384 -36 ) ( -192 -320 -36 ) mtrl/invisible 4 -4 0 0.5 0.5 0 0 0
+( -128 -384 16 ) ( 1152 -384 -36 ) ( -128 -384 -36 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( 1216 -384 12 ) ( 1216 -320 -36 ) ( 1216 -384 -36 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( 1152 -384 16 ) ( -128 -320 0 ) ( 1152 -320 0 ) mtrl/turf-snow 0 0 0 0.5 0.5 0 0 0
+( 1152 -320 0 ) ( -128 -320 -36 ) ( 1152 -320 -36 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -256 64 -32 ) ( -288 64 -32 ) ( -256 -64 -32 ) mtrl/turf-grey-xmas 0 0 0 0.5 0.5 0 0 0
+}
+// brush 12
+{
+( -192 -454 -42 ) ( -192 -377 -42 ) ( -192 -454 34 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -128 -512 -36 ) ( 1152 -512 36 ) ( 1152 -512 -36 ) mtrl/turf-grey-xmas 0 0 0 0.5 0.5 0 0 0
+( 1216 -448 -36 ) ( 1216 -384 36 ) ( 1216 -384 -36 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -128 -384 36 ) ( 1152 -384 -36 ) ( 1152 -384 36 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -128 -448 16 ) ( 1152 -384 16 ) ( 1152 -448 16 ) mtrl/turf-snow 0 0 0 0.5 0.5 0 0 0
+( -256 64 -32 ) ( -288 64 -32 ) ( -256 -64 -32 ) mtrl/turf-grey-xmas 0 0 0 0.5 0.5 0 0 0
+}
+// brush 13
+{
+( -320 1152 12 ) ( -320 1152 -36 ) ( -256 1152 -36 ) mtrl/invisible 4 -4 0 0.5 0.5 0 0 0
+( -320 1024 16 ) ( -320 -256 -36 ) ( -320 1024 -36 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -320 -256 12 ) ( -256 -256 -36 ) ( -320 -256 -36 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -320 -128 16 ) ( -256 1152 0 ) ( -256 -128 0 ) mtrl/turf-snow 0 0 0 0.5 0.5 0 0 0
+( -256 -128 0 ) ( -256 1152 -36 ) ( -256 -128 -36 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -256 64 -32 ) ( -288 64 -32 ) ( -256 -64 -32 ) mtrl/turf-grey-xmas 0 0 0 0.5 0.5 0 0 0
+}
+// brush 14
+{
+( -390 1152 -42 ) ( -313 1152 -42 ) ( -390 1152 34 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -448 1152 -36 ) ( -448 -128 36 ) ( -448 -128 -36 ) mtrl/turf-grey-xmas 0 0 0 0.5 0.5 0 0 0
+( -384 -256 -36 ) ( -320 -256 36 ) ( -320 -256 -36 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -320 1024 36 ) ( -320 -256 -36 ) ( -320 -256 36 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -384 1152 16 ) ( -320 -128 16 ) ( -384 -128 16 ) mtrl/turf-snow 0 0 0 0.5 0.5 0 0 0
+( -256 64 -32 ) ( -288 64 -32 ) ( -256 -64 -32 ) mtrl/turf-grey-xmas 0 0 0 0.5 0.5 0 0 0
+}
+// brush 15
+{
+( 1408 1088 16 ) ( 1216 1216 0 ) ( 1216 1280 16 ) mtrl/turf-snow 0 0 0 0.5 0.5 0 0 0
+( 1216 1280 16 ) ( 1408 1088 -36 ) ( 1408 1088 16 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( 1408 1152 16 ) ( 1344 1152 -36 ) ( 1344 1152 0 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( 1216 1280 -36 ) ( 1216 1216 0 ) ( 1216 1216 -36 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( 1344 1088 0 ) ( 1216 1216 -36 ) ( 1216 1216 0 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -256 64 -32 ) ( -288 64 -32 ) ( -256 -64 -32 ) mtrl/turf-grey-xmas 0 0 0 0.5 0.5 0 0 0
+}
+// brush 16
+{
+( -192 -320 0 ) ( -192 -384 16 ) ( -320 -256 16 ) mtrl/turf-snow 0 0 0 0.5 0.5 0 0 0
+( -128 -448 16 ) ( -320 -256 -36 ) ( -320 -256 16 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -320 -256 16 ) ( -256 -256 -36 ) ( -256 -256 0 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -192 -384 16 ) ( -192 -320 0 ) ( -192 -384 -36 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -256 -256 0 ) ( -128 -384 -36 ) ( -128 -384 0 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -256 64 -32 ) ( -288 64 -32 ) ( -256 -64 -32 ) mtrl/turf-grey-xmas 0 0 0 0.5 0.5 0 0 0
+}
+// brush 17
+{
+( -192 1280 16 ) ( -320 1088 0 ) ( -384 1088 16 ) mtrl/turf-snow 0 0 0 0.5 0.5 0 0 0
+( -384 1088 16 ) ( -192 1280 -36 ) ( -192 1280 16 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -192 1280 16 ) ( -192 1216 -36 ) ( -192 1216 0 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -320 1152 -36 ) ( -256 1152 0 ) ( -256 1152 -36 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -192 1216 0 ) ( -320 1088 -36 ) ( -320 1088 0 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -256 64 -32 ) ( -288 64 -32 ) ( -256 -64 -32 ) mtrl/turf-grey-xmas 0 0 0 0.5 0.5 0 0 0
+}
+}
+// entity 1
+{
+"classname" "info_player_start"
+"origin" "512 -448 40"
+"angle" "90"
+}
+// entity 2
+{
+"classname" "light"
+"light" "10"
+"origin" "512 448 16"
+}
+// entity 3
+{
+"classname" "info_player_deathmatch"
+"origin" "512 1344 40"
+}
+// entity 4
+{
+"classname" "light"
+"light" "10"
+"origin" "512 1088 16"
+}
+// entity 5
+{
+"classname" "light"
+"light" "10"
+"origin" "1152 448 16"
+}
+// entity 6
+{
+"classname" "light"
+"light" "10"
+"origin" "-128 448 16"
+}
+// entity 7
+{
+"classname" "light"
+"light" "5"
+"origin" "320 256 16"
+}
+// entity 8
+{
+"classname" "light"
+"light" "5"
+"origin" "512 320 16"
+}
+// entity 9
+{
+"classname" "light"
+"light" "5"
+"origin" "704 256 16"
+}
+// entity 10
+{
+"classname" "light"
+"light" "5"
+"origin" "640 448 16"
+}
+// entity 11
+{
+"classname" "light"
+"light" "5"
+"origin" "704 640 16"
+}
+// entity 12
+{
+"classname" "light"
+"light" "5"
+"origin" "512 576 16"
+}
+// entity 13
+{
+"classname" "light"
+"light" "5"
+"origin" "832 -192 16"
+}
+// entity 14
+{
+"classname" "light"
+"light" "5"
+"origin" "384 448 16"
+}
+// entity 15
+{
+"classname" "light"
+"light" "1"
+"origin" "176 240 16"
+}
+// entity 16
+{
+"classname" "light"
+"light" "1"
+"origin" "224 160 16"
+}
+// entity 17
+{
+"classname" "light"
+"light" "1"
+"origin" "304 112 16"
+}
+// entity 18
+{
+"classname" "light"
+"light" "1"
+"origin" "512 192 16"
+}
+// entity 19
+{
+"classname" "light"
+"light" "1"
+"origin" "1152 320 16"
+}
+// entity 20
+{
+"classname" "light"
+"light" "1"
+"origin" "624 80 16"
+}
+// entity 21
+{
+"classname" "light"
+"light" "1"
+"origin" "720 112 16"
+}
+// entity 22
+{
+"classname" "light"
+"light" "1"
+"origin" "800 160 16"
+}
+// entity 23
+{
+"classname" "light"
+"light" "1"
+"origin" "848 240 16"
+}
+// entity 24
+{
+"classname" "light"
+"light" "1"
+"origin" "880 336 16"
+}
+// entity 25
+{
+"classname" "light"
+"light" "5"
+"origin" "896 448 16"
+}
+// entity 26
+{
+"classname" "light"
+"light" "1"
+"origin" "880 560 16"
+}
+// entity 27
+{
+"classname" "light"
+"light" "1"
+"origin" "848 656 16"
+}
+// entity 28
+{
+"classname" "light"
+"light" "1"
+"origin" "800 736 16"
+}
+// entity 29
+{
+"classname" "light"
+"light" "1"
+"origin" "720 784 16"
+}
+// entity 30
+{
+"classname" "light"
+"light" "1"
+"origin" "624 816 16"
+}
+// entity 31
+{
+"classname" "light"
+"light" "5"
+"origin" "512 832 16"
+}
+// entity 32
+{
+"classname" "light"
+"light" "1"
+"origin" "400 816 16"
+}
+// entity 33
+{
+"classname" "light"
+"light" "1"
+"origin" "304 784 16"
+}
+// entity 34
+{
+"classname" "light"
+"light" "1"
+"origin" "224 736 16"
+}
+// entity 35
+{
+"classname" "light"
+"light" "1"
+"origin" "176 656 16"
+}
+// entity 36
+{
+"classname" "light"
+"light" "1"
+"origin" "144 560 16"
+}
+// entity 37
+{
+"classname" "light"
+"light" "5"
+"origin" "128 448 16"
+}
+// entity 38
+{
+"classname" "light"
+"light" "1"
+"origin" "144 336 16"
+}
+// entity 39
+{
+"classname" "target_position"
+"targetname" "target_position1"
+"origin" "1120 -768 256"
+}
+// entity 40
+{
+"classname" "info_player_intermission"
+"target" "target_position1"
+"origin" "1312 -1120 384"
+}
+// entity 41
+{
+"classname" "light"
+"light" "10"
+"origin" "960 0 16"
+}
+// entity 42
+{
+"classname" "light"
+"light" "10"
+"origin" "512 -192 16"
+}
+// entity 43
+{
+"classname" "light"
+"light" "10"
+"origin" "1152 -192 16"
+}
+// entity 44
+{
+"classname" "light"
+"light" "5"
+"origin" "320 640 16"
+}
+// entity 45
+{
+"classname" "light"
+"light" "5"
+"origin" "1152 128 16"
+}
+// entity 46
+{
+"classname" "light"
+"light" "5"
+"origin" "512 64 16"
+}
+// entity 47
+{
+"classname" "light"
+"light" "1"
+"origin" "1152 0 16"
+}
+// entity 48
+{
+"classname" "light"
+"light" "1"
+"origin" "1024 128 16"
+}
+// entity 49
+{
+"classname" "light"
+"light" "1"
+"origin" "960 -192 16"
+}
+// entity 50
+{
+"classname" "light"
+"light" "1"
+"origin" "832 -64 16"
+}
+// entity 51
+{
+"classname" "light"
+"light" "1"
+"origin" "1024 -64 16"
+}
+// entity 52
+{
+"classname" "light"
+"light" "1"
+"origin" "1088 -128 16"
+}
+// entity 53
+{
+"classname" "light"
+"light" "1"
+"origin" "1152 256 16"
+}
+// entity 54
+{
+"classname" "light"
+"light" "1"
+"origin" "640 -192 16"
+}
+// entity 55
+{
+"classname" "light"
+"light" "1"
+"origin" "704 -192 16"
+}
+// entity 56
+{
+"classname" "light"
+"light" "1"
+"origin" "400 80 16"
+}
+// entity 57
+{
+"classname" "light"
+"light" "1"
+"origin" "384 320 16"
+}
+// entity 58
+{
+"classname" "light"
+"light" "1"
+"origin" "384 576 16"
+}
+// entity 59
+{
+"classname" "light"
+"light" "1"
+"origin" "640 576 16"
+}
+// entity 60
+{
+"classname" "light"
+"light" "1"
+"origin" "640 320 16"
+}
+// entity 61
+{
+"classname" "light"
+"light" "1"
+"origin" "576 384 16"
+}
+// entity 62
+{
+"classname" "light"
+"light" "1"
+"origin" "448 384 16"
+}
+// entity 63
+{
+"classname" "light"
+"light" "1"
+"origin" "448 512 16"
+}
+// entity 64
+{
+"classname" "light"
+"light" "1"
+"origin" "576 512 16"
+}
+// entity 65
+{
+"classname" "light"
+"light" "1"
+"origin" "576 640 16"
+}
+// entity 66
+{
+"classname" "light"
+"light" "1"
+"origin" "448 640 16"
+}
+// entity 67
+{
+"classname" "light"
+"light" "1"
+"origin" "320 512 16"
+}
+// entity 68
+{
+"classname" "light"
+"light" "1"
+"origin" "320 384 16"
+}
+// entity 69
+{
+"classname" "light"
+"light" "1"
+"origin" "448 256 16"
+}
+// entity 70
+{
+"classname" "light"
+"light" "1"
+"origin" "576 256 16"
+}
+// entity 71
+{
+"classname" "light"
+"light" "1"
+"origin" "704 384 16"
+}
+// entity 72
+{
+"classname" "light"
+"light" "1"
+"origin" "704 512 16"
+}
+// entity 73
+{
+"classname" "light"
+"light" "1"
+"origin" "768 448 16"
+}
+// entity 74
+{
+"classname" "light"
+"light" "1"
+"origin" "256 448 16"
+}
+// entity 75
+{
+"classname" "light"
+"light" "1"
+"origin" "512 704 16"
+}
+// entity 76
+{
+"classname" "light"
+"light" "1"
+"origin" "384 -192 16"
+}
+// entity 77
+{
+"classname" "light"
+"light" "5"
+"origin" "-128 128 16"
+}
+// entity 78
+{
+"classname" "light"
+"light" "1"
+"origin" "0 -64 16"
+}
+// entity 79
+{
+"classname" "light"
+"light" "1"
+"origin" "-128 320 16"
+}
+// entity 80
+{
+"classname" "light"
+"light" "1"
+"origin" "-128 0 16"
+}
+// entity 81
+{
+"classname" "light"
+"light" "1"
+"origin" "64 -192 16"
+}
+// entity 82
+{
+"classname" "light"
+"light" "1"
+"origin" "192 -64 16"
+}
+// entity 83
+{
+"classname" "light"
+"light" "1"
+"origin" "0 128 16"
+}
+// entity 84
+{
+"classname" "light"
+"light" "1"
+"origin" "320 -192 16"
+}
+// entity 85
+{
+"classname" "light"
+"light" "1"
+"origin" "-128 256 16"
+}
+// entity 86
+{
+"classname" "light"
+"light" "1"
+"origin" "-64 -128 16"
+}
+// entity 87
+{
+"classname" "light"
+"light" "5"
+"origin" "192 -192 16"
+}
+// entity 88
+{
+"classname" "light"
+"light" "10"
+"origin" "64 0 16"
+}
+// entity 89
+{
+"classname" "light"
+"light" "10"
+"origin" "-128 -192 16"
+}
+// entity 90
+{
+"classname" "light"
+"light" "1"
+"origin" "-128 576 16"
+}
+// entity 91
+{
+"classname" "light"
+"light" "5"
+"origin" "192 1088 16"
+}
+// entity 92
+{
+"classname" "light"
+"light" "1"
+"origin" "0 960 16"
+}
+// entity 93
+{
+"classname" "light"
+"light" "1"
+"origin" "384 1088 16"
+}
+// entity 94
+{
+"classname" "light"
+"light" "1"
+"origin" "64 1088 16"
+}
+// entity 95
+{
+"classname" "light"
+"light" "1"
+"origin" "-128 896 16"
+}
+// entity 96
+{
+"classname" "light"
+"light" "1"
+"origin" "0 768 16"
+}
+// entity 97
+{
+"classname" "light"
+"light" "1"
+"origin" "192 960 16"
+}
+// entity 98
+{
+"classname" "light"
+"light" "1"
+"origin" "-128 640 16"
+}
+// entity 99
+{
+"classname" "light"
+"light" "1"
+"origin" "320 1088 16"
+}
+// entity 100
+{
+"classname" "light"
+"light" "1"
+"origin" "-64 1024 16"
+}
+// entity 101
+{
+"classname" "light"
+"light" "5"
+"origin" "-128 768 16"
+}
+// entity 102
+{
+"classname" "light"
+"light" "10"
+"origin" "64 896 16"
+}
+// entity 103
+{
+"classname" "light"
+"light" "10"
+"origin" "-128 1088 16"
+}
+// entity 104
+{
+"classname" "light"
+"light" "1"
+"origin" "640 1088 16"
+}
+// entity 105
+{
+"classname" "light"
+"light" "5"
+"origin" "1152 768 16"
+}
+// entity 106
+{
+"classname" "light"
+"light" "1"
+"origin" "1024 960 16"
+}
+// entity 107
+{
+"classname" "light"
+"light" "1"
+"origin" "1152 576 16"
+}
+// entity 108
+{
+"classname" "light"
+"light" "1"
+"origin" "1152 896 16"
+}
+// entity 109
+{
+"classname" "light"
+"light" "1"
+"origin" "960 1088 16"
+}
+// entity 110
+{
+"classname" "light"
+"light" "1"
+"origin" "832 960 16"
+}
+// entity 111
+{
+"classname" "light"
+"light" "1"
+"origin" "1024 768 16"
+}
+// entity 112
+{
+"classname" "light"
+"light" "1"
+"origin" "704 1088 16"
+}
+// entity 113
+{
+"classname" "light"
+"light" "1"
+"origin" "1152 640 16"
+}
+// entity 114
+{
+"classname" "light"
+"light" "1"
+"origin" "1088 1024 16"
+}
+// entity 115
+{
+"classname" "light"
+"light" "5"
+"origin" "832 1088 16"
+}
+// entity 116
+{
+"classname" "light"
+"light" "10"
+"origin" "960 896 16"
+}
+// entity 117
+{
+"classname" "light"
+"light" "10"
+"origin" "1152 1088 16"
+}
+// entity 118
+{
+"classname" "info_null"
+"origin" "1504 736 32"
+"image" "mtrl/poof-red"
+"width" "0.75"
+"height" "0.75"
+"message" "Welcome to Reshaun's\Christmas Levels."
+"shot" "shot-christmas/xmas-easy.png"
+"version" "1.0"
+}
+// entity 119
+{
+"classname" "info_null"
+"origin" "1504 544 32"
+"image" "mtrl/poof-green"
+"width" "0.75"
+"height" "0.75"
+"message" "Welcome to Reshaun's\Christmas Levels."
+"shot" "shot-christmas/xmas-easy.png"
+"version" "1.0"
+}
+// entity 120
+{
+"classname" "info_null"
+"origin" "1504 1120 32"
+"image" "mtrl/poof-red"
+"width" "0.75"
+"height" "0.75"
+"message" "Welcome to Reshaun's\Christmas Levels."
+"shot" "shot-christmas/xmas-easy.png"
+"version" "1.0"
+}
+// entity 121
+{
+"classname" "info_null"
+"origin" "1504 928 32"
+"image" "mtrl/poof-green"
+"width" "0.75"
+"height" "0.75"
+"message" "Welcome to Reshaun's\Christmas Levels."
+"shot" "shot-christmas/xmas-easy.png"
+"version" "1.0"
+}
+// entity 122
+{
+"classname" "info_null"
+"origin" "1504 352 32"
+"image" "mtrl/poof-red"
+"width" "0.75"
+"height" "0.75"
+"message" "Welcome to Reshaun's\Christmas Levels."
+"shot" "shot-christmas/xmas-easy.png"
+"version" "1.0"
+}
+// entity 123
+{
+"classname" "info_null"
+"origin" "1504 160 32"
+"image" "mtrl/poof-green"
+"width" "0.75"
+"height" "0.75"
+"message" "Welcome to Reshaun's\Christmas Levels."
+"shot" "shot-christmas/xmas-easy.png"
+"version" "1.0"
+}
+// entity 124
+{
+"classname" "info_null"
+"origin" "1504 -224 32"
+"image" "mtrl/poof-green"
+"width" "0.75"
+"height" "0.75"
+"message" "Welcome to Reshaun's\Christmas Levels."
+"shot" "shot-christmas/xmas-easy.png"
+"version" "1.0"
+}
+// entity 125
+{
+"classname" "info_null"
+"origin" "1504 -32 32"
+"image" "mtrl/poof-red"
+"width" "0.75"
+"height" "0.75"
+"message" "Welcome to Reshaun's\Christmas Levels."
+"shot" "shot-christmas/xmas-easy.png"
+"version" "1.0"
+}
+// entity 126
+{
+"classname" "info_null"
+"origin" "-480 -32 32"
+"image" "mtrl/poof-green"
+"width" "0.75"
+"height" "0.75"
+"message" "Welcome to Reshaun's\Christmas Levels."
+"shot" "shot-christmas/xmas-easy.png"
+"version" "1.0"
+}
+// entity 127
+{
+"classname" "info_null"
+"origin" "-480 -224 32"
+"image" "mtrl/poof-red"
+"width" "0.75"
+"height" "0.75"
+"message" "Welcome to Reshaun's\Christmas Levels."
+"shot" "shot-christmas/xmas-easy.png"
+"version" "1.0"
+}
+// entity 128
+{
+"classname" "info_null"
+"origin" "-480 1120 32"
+"image" "mtrl/poof-green"
+"width" "0.75"
+"height" "0.75"
+"message" "Welcome to Reshaun's\Christmas Levels."
+"shot" "shot-christmas/xmas-easy.png"
+"version" "1.0"
+}
+// entity 129
+{
+"classname" "info_null"
+"origin" "-480 352 32"
+"image" "mtrl/poof-green"
+"width" "0.75"
+"height" "0.75"
+"message" "Welcome to Reshaun's\Christmas Levels."
+"shot" "shot-christmas/xmas-easy.png"
+"version" "1.0"
+}
+// entity 130
+{
+"classname" "info_null"
+"origin" "-480 928 32"
+"image" "mtrl/poof-red"
+"width" "0.75"
+"height" "0.75"
+"message" "Welcome to Reshaun's\Christmas Levels."
+"shot" "shot-christmas/xmas-easy.png"
+"version" "1.0"
+}
+// entity 131
+{
+"classname" "info_null"
+"origin" "-480 160 32"
+"image" "mtrl/poof-red"
+"width" "0.75"
+"height" "0.75"
+"message" "Welcome to Reshaun's\Christmas Levels."
+"shot" "shot-christmas/xmas-easy.png"
+"version" "1.0"
+}
+// entity 132
+{
+"classname" "info_null"
+"origin" "-480 544 32"
+"image" "mtrl/poof-red"
+"width" "0.75"
+"height" "0.75"
+"message" "Welcome to Reshaun's\Christmas Levels."
+"shot" "shot-christmas/xmas-easy.png"
+"version" "1.0"
+}
+// entity 133
+{
+"classname" "info_null"
+"origin" "-480 736 32"
+"image" "mtrl/poof-green"
+"width" "0.75"
+"height" "0.75"
+"message" "Welcome to Reshaun's\Christmas Levels."
+"shot" "shot-christmas/xmas-easy.png"
+"version" "1.0"
+}
+// entity 134
+{
+"classname" "info_null"
+"origin" "992 1440 32"
+"image" "mtrl/poof-red"
+"width" "0.75"
+"height" "0.75"
+"message" "Welcome to Reshaun's\Christmas Levels."
+"shot" "shot-christmas/xmas-easy.png"
+"version" "1.0"
+"angle" "-1.40334e-014"
+}
+// entity 135
+{
+"classname" "info_null"
+"origin" "1184 1440 32"
+"image" "mtrl/poof-green"
+"width" "0.75"
+"height" "0.75"
+"message" "Welcome to Reshaun's\Christmas Levels."
+"shot" "shot-christmas/xmas-easy.png"
+"version" "1.0"
+"angle" "-1.40334e-014"
+}
+// entity 136
+{
+"classname" "info_null"
+"origin" "992 -544 32"
+"image" "mtrl/poof-green"
+"width" "0.75"
+"height" "0.75"
+"message" "Welcome to Reshaun's\Christmas Levels."
+"shot" "shot-christmas/xmas-easy.png"
+"version" "1.0"
+"angle" "-1.40334e-014"
+}
+// entity 137
+{
+"classname" "info_null"
+"origin" "1184 -544 32"
+"image" "mtrl/poof-red"
+"width" "0.75"
+"height" "0.75"
+"message" "Welcome to Reshaun's\Christmas Levels."
+"shot" "shot-christmas/xmas-easy.png"
+"version" "1.0"
+"angle" "-1.40334e-014"
+}
+// entity 138
+{
+"classname" "info_null"
+"origin" "-160 1440 32"
+"image" "mtrl/poof-red"
+"width" "0.75"
+"height" "0.75"
+"message" "Welcome to Reshaun's\Christmas Levels."
+"shot" "shot-christmas/xmas-easy.png"
+"version" "1.0"
+"angle" "-1.40334e-014"
+}
+// entity 139
+{
+"classname" "info_null"
+"origin" "608 1440 32"
+"image" "mtrl/poof-red"
+"width" "0.75"
+"height" "0.75"
+"message" "Welcome to Reshaun's\Christmas Levels."
+"shot" "shot-christmas/xmas-easy.png"
+"version" "1.0"
+"angle" "-1.40334e-014"
+}
+// entity 140
+{
+"classname" "info_null"
+"origin" "32 1440 32"
+"image" "mtrl/poof-green"
+"width" "0.75"
+"height" "0.75"
+"message" "Welcome to Reshaun's\Christmas Levels."
+"shot" "shot-christmas/xmas-easy.png"
+"version" "1.0"
+"angle" "-1.40334e-014"
+}
+// entity 141
+{
+"classname" "info_null"
+"origin" "800 1440 32"
+"image" "mtrl/poof-green"
+"width" "0.75"
+"height" "0.75"
+"message" "Welcome to Reshaun's\Christmas Levels."
+"shot" "shot-christmas/xmas-easy.png"
+"version" "1.0"
+"angle" "-1.40334e-014"
+}
+// entity 142
+{
+"classname" "info_null"
+"origin" "608 -544 32"
+"image" "mtrl/poof-green"
+"width" "0.75"
+"height" "0.75"
+"message" "Welcome to Reshaun's\Christmas Levels."
+"shot" "shot-christmas/xmas-easy.png"
+"version" "1.0"
+"angle" "-1.40334e-014"
+}
+// entity 143
+{
+"classname" "info_null"
+"origin" "-160 -544 32"
+"image" "mtrl/poof-green"
+"width" "0.75"
+"height" "0.75"
+"message" "Welcome to Reshaun's\Christmas Levels."
+"shot" "shot-christmas/xmas-easy.png"
+"version" "1.0"
+"angle" "-1.40334e-014"
+}
+// entity 144
+{
+"classname" "info_null"
+"origin" "416 -544 32"
+"image" "mtrl/poof-red"
+"width" "0.75"
+"height" "0.75"
+"message" "Welcome to Reshaun's\Christmas Levels."
+"shot" "shot-christmas/xmas-easy.png"
+"version" "1.0"
+"angle" "-1.40334e-014"
+}
+// entity 145
+{
+"classname" "info_null"
+"origin" "224 -544 32"
+"image" "mtrl/poof-green"
+"width" "0.75"
+"height" "0.75"
+"message" "Welcome to Reshaun's\Christmas Levels."
+"shot" "shot-christmas/xmas-easy.png"
+"version" "1.0"
+"angle" "-1.40334e-014"
+}
+// entity 146
+{
+"classname" "info_null"
+"origin" "800 -544 32"
+"image" "mtrl/poof-red"
+"width" "0.75"
+"height" "0.75"
+"message" "Welcome to Reshaun's\Christmas Levels."
+"shot" "shot-christmas/xmas-easy.png"
+"version" "1.0"
+"angle" "-1.40334e-014"
+}
+// entity 147
+{
+"classname" "info_null"
+"origin" "32 -544 32"
+"image" "mtrl/poof-red"
+"width" "0.75"
+"height" "0.75"
+"message" "Welcome to Reshaun's\Christmas Levels."
+"shot" "shot-christmas/xmas-easy.png"
+"version" "1.0"
+"angle" "-1.40334e-014"
+}
+// entity 148
+{
+"classname" "info_null"
+"origin" "416 1440 32"
+"image" "mtrl/poof-green"
+"width" "0.75"
+"height" "0.75"
+"message" "Welcome to Reshaun's\Christmas Levels."
+"shot" "shot-christmas/xmas-easy.png"
+"version" "1.0"
+"angle" "-1.40334e-014"
+}
+// entity 149
+{
+"classname" "info_null"
+"origin" "224 1440 32"
+"image" "mtrl/poof-red"
+"width" "0.75"
+"height" "0.75"
+"message" "Welcome to Reshaun's\Christmas Levels."
+"shot" "shot-christmas/xmas-easy.png"
+"version" "1.0"
+"angle" "-1.40334e-014"
+}

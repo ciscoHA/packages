@@ -1,0 +1,31 @@
+Reshaun's Christmas Levels 3
+Dificulty: Hard through Expert\\Merry Christmas and Happy New Year.\\Author: Reshaun Francis
+christmas3
+shot-christmas3/Xmas-assault2.png
+
+map-christmas3/Xmas-brook.sol
+map-christmas3/Xmas-zigzag.sol
+map-christmas3/Xmas-ripple2.sol
+map-christmas3/Xmas-slantcurves.sol
+map-christmas3/Xmas-holes.sol
+map-christmas3/Xmas-rails.sol
+map-christmas3/Xmas-CornerBlocks.sol
+map-christmas3/Xmas-narrowcurves.sol
+map-christmas3/Xmas-pipe.sol
+map-christmas3/Xmas-multicurves.sol
+map-christmas3/Xmas-crossjumps.sol
+map-christmas3/Xmas-platforms.sol
+map-christmas3/Xmas-narrowcurves2.sol
+map-christmas3/Xmas-elevators.sol
+map-christmas3/Xmas-bumps3.sol
+map-christmas3/Xmas-unwind.sol
+map-christmas3/Xmas-flairsmoke.sol
+map-christmas3/Xmas-assault.sol
+map-christmas3/Xmas-traffic.sol
+map-christmas3/Xmas-dualpit-pattern.sol
+map-christmas3/Xmas-gaps.sol
+map-christmas3/Xmas-obstacle2.sol
+map-christmas3/Xmas-trellis.sol
+map-christmas3/Xmas-assault2.sol
+map-christmas3/Xmas-grid2.sol
+

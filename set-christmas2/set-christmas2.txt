@@ -1,0 +1,30 @@
+Reshaun's Christmas Levels 2
+Dificulty: Medium through Advanced\\Merry Christmas to all. Happy Holidays.\\Author: Reshaun Francis
+christmas2
+shot-christmas2/Xmas-obstacle.png
+
+map-christmas2/Xmas-easy2.sol
+map-christmas2/Xmas-balance.sol
+map-christmas2/Xmas-tree-grid.sol
+map-christmas2/Xmas-curbs.sol
+map-christmas2/Xmas-orbits.sol
+map-christmas2/Xmas-slightcurve.sol
+map-christmas2/Xmas-qbert.sol
+map-christmas2/Xmas-greed.sol
+map-christmas2/Xmas-rooftop.sol
+map-christmas2/Xmas-frozen-lake.sol
+map-christmas2/Xmas-tilt2.sol
+map-christmas2/Xmas-sliding-peaks.sol
+map-christmas2/Xmas-bumps2.sol
+map-christmas2/Xmas-obstacle.sol
+map-christmas2/Xmas-thwomp-present2.sol
+map-christmas2/Xmas-check.sol
+map-christmas2/Xmas-bumper-revisited.sol
+map-christmas2/Xmas-ramps.sol
+map-christmas2/Xmas-poker.sol
+map-christmas2/Xmas-canes.sol
+map-christmas2/Xmas-exercise.sol
+map-christmas2/Xmas-cliffs.sol
+map-christmas2/Xmas-narrow.sol
+map-christmas2/Xmas-logo.sol
+map-christmas2/Xmas-hills.sol
