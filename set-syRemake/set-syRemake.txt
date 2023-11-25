@@ -1,7 +1,7 @@
 SYMPHONY LEVEL REMAKE
 A REMAKE SET GENERATED MY CREATED LEVEL
 syRemake
-shot-sy/1.png
+shot-syRemake/1.png
 
 map-syRemake/1.sol
 map-syRemake/2.sol
