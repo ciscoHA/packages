@@ -1,0 +1,12 @@
+Set of Challenges
+Difficulty: Intermediate through Insane\\Simple set created to test your skills.\Work is in progress.\Author: Dawid8404\
+DSoC
+shot-DSoC/greenhill.png
+
+map-DSoC/closefar.sol
+map-DSoC/greenhill.sol
+map-DSoC/bluemaze.sol
+map-DSoC/woodengrid.sol
+map-DSoC/spacewars.sol
+map-DSoC/bluegrid.sol
+map-DSoC/dontlookdown.sol
