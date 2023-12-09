@@ -7,7 +7,7 @@
 "grad" "back/snow.png"
 "song" "bgm/track1.ogg"
 "shot" "shot-christmas/Xmas-maze.png"
-"version" "4.1"
+"version" "4.2"
 "author" "Reshaun Francis"
 "time" "8000"
 "time_hs" "3600 4000"
@@ -4174,7 +4174,7 @@
 // brush 254
 {
 ( 64 160 0 ) ( 0 224 0 ) ( 64 224 0 ) mtrl/coin-snow 0 192 0 0.5 0.5 0 0 0
-( 64 160 0 ) ( 0 160 -8 ) ( 0 160 0 ) mtrl/turf-grey-xmas 0 128 0 0.5 0.5 0 0 0
+( 64 160 0 ) ( 0 160 -8 ) ( 0 160 0 ) mtrl/invisible 0 128 0 0.5 0.5 0 0 0
 ( 0 160 -8 ) ( 64 224 -8 ) ( 0 224 -8 ) mtrl/turf-grey-xmas 0 128 0 0.5 0.5 0 0 0
 ( 64 224 0 ) ( 0 224 0 ) ( 0 224 -8 ) mtrl/invisible 0 128 0 0.5 0.5 0 0 0
 ( 0 160 0 ) ( 0 224 -8 ) ( 0 224 0 ) mtrl/invisible 0 128 0 0.5 0.5 0 0 0
@@ -4206,7 +4206,7 @@
 ( 0 -96 0 ) ( 64 -160 0 ) ( 0 -160 0 ) mtrl/turf-snow 0 192 0 0.5 0.5 0 0 0
 ( 0 -160 0 ) ( 64 -160 0 ) ( 64 -160 -8 ) mtrl/invisible 0 128 0 0.5 0.5 0 0 0
 ( 64 -96 -8 ) ( 0 -160 -8 ) ( 64 -160 -8 ) mtrl/turf-grey-xmas 0 128 0 0.5 0.5 0 0 0
-( 0 -96 0 ) ( 64 -96 -8 ) ( 64 -96 0 ) mtrl/turf-grey-xmas 0 128 0 0.5 0.5 0 0 0
+( 0 -96 0 ) ( 64 -96 -8 ) ( 64 -96 0 ) mtrl/invisible 0 128 0 0.5 0.5 0 0 0
 ( 0 -96 -8 ) ( 0 -160 0 ) ( 0 -160 -8 ) mtrl/invisible 0 128 0 0.5 0.5 0 0 0
 ( 64 -96 0 ) ( 64 -160 -8 ) ( 64 -160 0 ) mtrl/invisible 0 128 0 0.5 0.5 0 0 0
 }
