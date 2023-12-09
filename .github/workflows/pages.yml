@@ -39,14 +39,14 @@ jobs:
       - name: Build base SOLs
         run: "(cd neverball && make -j2 sols)"
       - name: Build packages
-        run: "(cd neverball && make -f mk/packages.mk -j2 PACKAGES_DIR=$(pwd)/../ OUTPUT_DIR=$(pwd)/../build/"
+        run: "(cd neverball && make -f mk/packages.mk -j2 PACKAGES_DIR=$(pwd)/../ OUTPUT_DIR=$(pwd)/../build/)"
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
           # Upload entire repository
-          path: 'packages'
+          path: 'build'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v3
