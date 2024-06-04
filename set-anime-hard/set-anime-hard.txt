@@ -2,7 +2,7 @@ Anime Levels Suite
 Difficulty: Expert through Very Insane\\Nevergaiden: The Unofficial Second Japanese Asian Set\Author: Reshaun Francis
 anime-II
 shot-anime/gaokao.png
-
+140000 160000 180000  1280 840 0
 map-anime/departure.sol
 map-anime/warpdreams.sol
 map-anime/rook.sol

@@ -2,7 +2,7 @@ Anime Levels
 Difficulty: Advanced through Expert\\Nevergaiden: The Unofficial First Japanese Asian Set\Author: Reshaun Francis
 anime-I
 shot-anime/expedition.png
-
+62000 70000 80000  1250 750 0
 map-anime/ease.sol
 map-anime/cornercraft.sol
 map-anime/expedition.sol
